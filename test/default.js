@@ -21,6 +21,7 @@
             new Definitions.Database({
                   name: 'a'
                 , aliasName: 'b'
+                , exists: true
             });
         });
 
