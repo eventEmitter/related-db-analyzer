@@ -7,7 +7,7 @@
         , Function    : require('./lib/FunctionDefinition')
         , Reference   : require('./lib/ReferenceDefinition')
         , Mapping     : require('./lib/MappingDefinition')
-        , ReferenceBy : require('./lib/ReferenceByDefinition')
+        , BelongsTo   : require('./lib/BelongsToDefinition')
     };
 
 })();
