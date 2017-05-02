@@ -1,5 +1,7 @@
 # related-db-analyzer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/eventEmitter/related-db-analyzer.svg)](https://greenkeeper.io/)
+
 Base package for the related orm database analyzer components
 
 
